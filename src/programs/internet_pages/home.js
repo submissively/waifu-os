@@ -23,11 +23,10 @@ I created this site to piss off some people lol!
 <tr>
 <td><b>User Reviews:</b><br><br>
 <i>"I love you"</i> - kayte<br>
-<i>"My son is a genius!"</i> - Mom<br>
+<i>"This is peak"</i> - GunGunson<br>
 <i>"im proud of you!"</i> - 0day<br>
 <i>"Purge, your site is radical!"</i> - MR. Robot<br>
 <i>"Very cool effects, too bad it takes so long to load sob"</i> - Kl0ps
-<i>"This is peak"</i> - GunGunson
 </td>
 </tr>
 </table>
